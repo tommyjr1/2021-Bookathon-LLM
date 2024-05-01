@@ -1,0 +1,102 @@
+This essay is written for the lecture, 'Introduction to Philosophy'
+ Critical Evaluation for Pascal’s Wager
+ The argument of “Pascal’s Wager” begins with premise that we, human beings are finite beings. It is common sense that we are finite as in the novel, Zorba the Greek.
+“The human soul is heavy, clumsy, held in the mud of the flesh. Its perceptions are still coarse and brutish. It can divine nothing clearly, nothing with certainty. If it could have guessed, how different this separation would have been.” (Nikos Kazantzakis, Zorba the Greek)
+  As finite beings, we know the existence and nature of the finite. However, we do not know of the infinite, especially God. Then, the problem arises, whether to believe God or not. Under the uncertainty and risk, Pascal introduces a wager to persuade into believing God.	  There are four possibilities. Either God exists or God does not exist, and someone can either wager for God or wager against God. Pascal argues that God believers get infinite gain if God actually exists. And other possible outcomes have finite utilities. Each finite value can be somewhat positive or negative, but it is meaningless in relevance to infinity. Setting each finite value as f1, f2, and f3, the summary of the wager would be as following decision matrix of rewards.  
+Pascal's Decision Matrix
+
+
+ 
+ God exists
+ God does not exist
+
+ Wager for God
+ ∞
+ f1
+
+ Wager against God 
+ f2 
+ f3 
+  And supposing the probability of God existing as p, each expectation values are the following.
+E(Wager for God)=∞*p+f1*(1-p)=∞E(Wager against God)=f2*p+3*(1-p)=(a finite value)
+
+
+  If someone has rationality, he would choose the maximum expected utility. Infinite gain always surpasses finite things. Therefore, Pascal makes conclusion that you should wager for God, because you are rational.	It seems to be quite reasonable. However, Pascal ignores a few situations.
+  At first, the probability for God’s existence could be zero. As we are finite beings, we do not know certain probability of God’s existence. Then, strict atheist would insist that the probability is zero. In this case, expected utility of wagering for God would change.
+E(Wager for God)=∞*0+f1*1
+
+
+  We could not calculate what the exact value of ∞ * 0 is. However, this means that the expectation for God can be a finite value and what is better to decision in Pascal’s Matrix becomes ambiguous.
+  Moreover, there is other case that the probability for God’s existence is near to zero. What if infinite numbers of Gods exist? This argument begins from same premise of Pascal that we do not know the nature of infinite, as finite beings. Then it is also probable that the number of different Gods is infinite. In this case, person who believes God (A) becomes disbeliever in other Gods. Thus, the decision matrix changes as the following. (In this matrix, each expected outcomes of disbelief [f2 ~ fn] is finite, so each expectation values remains finite.) 
+
+Case of infinite number of Gods
+
+
+ 
+ God (A) exists
+ God (B)exists
+ God (C)exists
+ …….
+ God (X)exists
+ …….
+ God doesnot exist
+
+ Wager for God 
+ ∞ 
+ ∞ 
+ ∞
+ …… 
+ ∞ 
+ …… 
+ f1 
+
+ Wager against God 
+ f2 
+ f3
+ f3
+ …….
+ fx
+ ……. 
+ fn 
+  And the probability of each God’s existence becomes 1/∞, similar to zero. So each expected value of wagering one God could be finite. Therefore, this case makes Pascal’s argument less persuasive like the zero probability case.   
+  Then, what if someone believes many Gods? Does believing more Gods make difference? In this case, the expected value is sum of each expected values of believing God. However, we are finite beings as said before. So the number of Gods we can believe would be also finite. Because we do not know each finite outcome, we cannot say the sum is larger than rewards from disbelieving. Thus, this hypothesis is rejected.
+   And there is possible situation that the expected rewards whether believing God or not, in case that God exists, could be same. God is known as omnibenevolent being.
+  And Jesus said to him, “Why do you call me good? No one is good except God alone.” (Mark 10:18)
+There is no difference between believers and disbelievers, if God actually omnibenevolent. God gives infinite gain whenever. So outcomes would be like this. 
+Case of Omnibenevolent God
+
+
+ 
+ God exists 
+ God does not exist
+
+ Wager for God 
+ ∞ 
+ f1
+
+ Wager against God 
+ ∞
+ f3  Then, the wager becomes meaningless in this case, because each expected value of believing and value of disbelieving will be same.
+
+  At last, a problem arises because the decision of wager is based on prudential reasons. God is also known as omniscient being. If God knows everything, God knows this wager. In Pascal’s wager, he supposed God will give different rewards whether one believe God or not. Then, if God knows someone who wager for God, persuaded by Pascal, is actually disbeliever, would God give same reward with theist? There should be difference. Therefore, the matrix will be the next.
+
+Case of Omniscient God
+
+
+ 
+ God exists 
+ God does not exist
+
+ Wager for God (Theist)
+ ∞ 
+ f1 
+
+ Agnostic(Pascal)
+ f2 
+ f3
+
+ Wager against God (Atheist)
+ f4 
+ f5   Why is f2 finite value? There should be difference for reward between believing God and disbelieving, according to Pascal’s argument. So, there would be difference for agnostics, too. It should not be infinite gain. If God gives ∞ - 1 or some value less than infinity, it is also infinite value, so there is no difference. And God also knows this, because God is omniscient. Therefore, God give finite reward for agnostic who wager for God. In this situation, Pascal persuade people to wager for God by f2 &gt; f4 (each value also has difference, because God makes difference). However it is optimal option for agnostics, not maximum, so that it is not much persuasive to them, comparing infinite gain vs. finite gain.
+
+  In summary, uncertainty of existence and God’s character make Pascal’s argument lose its persuasiveness. But it could be more important issue that Pascal used the concept of pursuit of profits for making people believing God than Pascal’s argument is right. And his argument based on perspective of agnostic, so there is limitation he cannot prove the existence of God. Therefore, Pascal’s argument can be criticized as nominal religious belief.
